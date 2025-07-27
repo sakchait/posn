@@ -1,0 +1,14 @@
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\bin\Debug\net9.0\TourV2App.exe
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\bin\Debug\net9.0\TourV2App.deps.json
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\bin\Debug\net9.0\TourV2App.runtimeconfig.json
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\bin\Debug\net9.0\TourV2App.dll
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\bin\Debug\net9.0\TourV2App.pdb
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\obj\Debug\net9.0\TourV2App.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\obj\Debug\net9.0\TourV2App.AssemblyInfoInputs.cache
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\obj\Debug\net9.0\TourV2App.AssemblyInfo.cs
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\obj\Debug\net9.0\TourV2App.csproj.CoreCompileInputs.cache
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\obj\Debug\net9.0\TourV2App.dll
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\obj\Debug\net9.0\refint\TourV2App.dll
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\obj\Debug\net9.0\TourV2App.pdb
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\obj\Debug\net9.0\TourV2App.genruntimeconfig.cache
+C:\sources\CppProjects\OrbsProject\lab6\TourV2App\obj\Debug\net9.0\ref\TourV2App.dll
